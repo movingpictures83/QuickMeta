@@ -1,0 +1,2 @@
+CovidNegative	51
+CovidPositive	318
